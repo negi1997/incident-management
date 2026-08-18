@@ -44,6 +44,22 @@
               "roles": [
                 "support"
               ]
+            },
+            "admin": {
+              "roles": [
+                "support"
+              ]
+            },
+            "incident.support@tester.sap.com": {
+              "password": "initial",
+              "roles": [
+                "support"
+              ]
+            },
+            "yi.dong@ibm.com": {
+              "roles": [
+                "support"
+              ]
             }
           }
         }
